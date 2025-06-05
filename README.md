@@ -11,3 +11,5 @@ Currently, two official plugins are available:
 
 Uses face-api-js and models can be replaced in public/models.
 For models refer - https://github.com/justadudewhohacks/face-api.js/tree/master/weights
+
+![Uploading face-blur.gif…]()
